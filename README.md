@@ -1,6 +1,6 @@
 # Shape-of-my-restaurant
 
-_The way I died when I realized this was not for friday..._
+_The way I died when I realized this was not for friday... This time I stop using the different names to call the instance atributes, I was making it more tedious._
 ***
 ### Better Comments
 _This is the how I decided to use the extension._
