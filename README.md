@@ -523,4 +523,4 @@ classDiagram
     Payment <|-- Cash
 ```
 ___
-### That was it. Thanks for reading.
+### That was it. Thanks for reading...
